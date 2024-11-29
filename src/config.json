@@ -1,7 +1,7 @@
 {
   "site": {
-    "url": "https://gyoza.lxchapu.com",
-    "title": "Gyoza",
+    "url": "weils.top",
+    "title": "魏連殳的灌水站",
     "description": "这是一个使用 Astro 和 React 开发的博客主题。",
     "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
     "lang": "zh-CN",
@@ -9,14 +9,14 @@
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "lxchapu",
+    "name": "魏连殳",
     "twitterId": "@lxchapu",
-    "avatar": "https://s2.loli.net/2024/04/30/ozsnuS5Ihf3xMBG.webp"
+    "avatar": "https://avatars.githubusercontent.com/u/51812100?s=400&u=734bd114e20c79214965d09f92065dfb26e894fe&v=4"
   },
   "hero": {
-    "name": "Gyoza",
-    "bio": "A static blog template build with Astro and React.",
-    "description": "Clean, Cute, Fast.",
+    "name": "魏连殳",
+    "bio": "事学生.",
+    "description": "死宅 咸鱼.",
     "socials": [
       {
         "name": "Github",
@@ -27,17 +27,17 @@
       {
         "name": "X",
         "icon": "icon-x",
-        "url": "https://twitter.com/lxchapu",
+        "url": "https://twitter.com/",
         "color": "rgb(36, 46, 54)"
       },
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:lxchapu@outlook.com",
+        "url": "mailto:weilianshu32@gmail.com",
         "color": "rgb(212, 70, 56)"
       }
     ],
-    "yiyan": "当第一颗卫星飞向大气层外，我们便以为自己终有一日会征服宇宙。"
+    "yiyan": "雨意难却。"
   },
   "color": {
     "accent": [
@@ -104,7 +104,7 @@
     "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
   },
   "analytics": {
-    "enable": false,
+    "enable": true,
     "google": {
       "measurementId": ""
     },
