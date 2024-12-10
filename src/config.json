@@ -21,7 +21,7 @@
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/lxchapu/astro-gyoza",
+        "url": "https://github.com/fmgjz",
         "color": "rgb(24, 23, 23)"
       },
       {
@@ -98,7 +98,7 @@
     "startTime": "2024-04-14T00:00:00Z"
   },
   "waline": {
-    "serverURL": "https://waline.lxchapu.com"
+    "serverURL": "https://waline-one-tan.vercel.app/"
   },
   "sponsor": {
     "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
