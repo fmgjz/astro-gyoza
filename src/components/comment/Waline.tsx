@@ -10,8 +10,8 @@ export function Waline({ serverURL }: { serverURL: string }) {
       el: ref.current,
       serverURL,
       dark: "[data-theme='dark']",
-      login: 'force',
-      imageUploader: false,
+      login: 'disable',
+      imageUploader: true,
       search: false,
       locale: {
         placeholder: '发条友善的评论吧（支持 Markdown 语法）…',
