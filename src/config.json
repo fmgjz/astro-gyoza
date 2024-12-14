@@ -2,7 +2,7 @@
   "site": {
     "url": "https://weils.top",
     "title": "魏連殳的灌水站",
-    "description": "这是一个使用 Astro 和 React 开发的博客主题。",
+    "description": "没营养没干货的Blog。",
     "keywords": "Gyoza,blog,Astro,theme,lxchapu,博客主题",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
@@ -10,7 +10,7 @@
   },
   "author": {
     "name": "魏连殳",
-    "twitterId": "@lxchapu",
+    "twitterId": "",
     "avatar": "https://avatars.githubusercontent.com/u/51812100?s=400&u=734bd114e20c79214965d09f92065dfb26e894fe&v=4"
   },
   "hero": {
@@ -101,7 +101,7 @@
     "serverURL": "https://waline-one-tan.vercel.app/"
   },
   "sponsor": {
-    "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
+    "wechat": ""
   },
   "analytics": {
     "enable": true,
