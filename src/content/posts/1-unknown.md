@@ -3,6 +3,7 @@ title: 未起名的小说
 date: 2023-04-30
 category: idea
 tags: [idea, 创作]
+sticky: 1
 description: 都市异闻
 ---
 
