@@ -7,6 +7,25 @@ summary: 目标与待办
 sticky: 1
 ---
 
+## In 2005
+
+### 6 (June)
+
+- 1.不要死
+
+## In 2023
+
+### 1 (Jan)
+
+- 5.~~基础Markdown语法掌握~~
+- Docker入门
+- ~~Git基础指令~~
+- ~~Github入门~~
+- ~~装Debian Linux~~
+- ~~装Arch Linux~~
+- Android开发入门
+- Build the first Android APP
+
 ## In 2024
 
 ### 12 (Dec)
