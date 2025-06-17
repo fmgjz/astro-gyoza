@@ -2,7 +2,7 @@
 title: Windows小工具归档
 date: 2025-05-30
 tags: 备份
-category: Tech
+category: [Tech]
 summary: 妙妙小工具
 sticky: 1
 ---
