@@ -1,6 +1,6 @@
 ---
 title: Windows小工具归档
-date: 2025-5-30
+date: 2025-05-30
 tags: 备份
 category: Tech
 summary: 妙妙小工具
