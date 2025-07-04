@@ -50,3 +50,9 @@ Ghelper [Github](https://github.com/seerge/g-helper)
 - Snapaste [EN](https://www.snipaste.com/) / [ZH](https://zh.snipaste.com/#)
 
 - Pixpin [EN](https://pixpin.com) / [ZH](https://pixpin.cn)
+
+## 图片处理
+
+- StirlingPDF [GitHub](https://github.com/Stirling-Tools/Stirling-PDF)
+
+&emsp; 我相信你也受够了国产垃圾办公软件编辑个PDF就要会员的生活.
